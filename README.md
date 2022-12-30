@@ -8,7 +8,7 @@ A Google Colab implementation of ![VNext IDOL](https://github.com/wjf5203/VNext/
 
 - https://github.com/rmyj/VNext-IDOL/-/raw/main/rgbd_dataset_freiburg3_walking_xyz_rgb_only.zip
 - https://github.com/rmyj/VNext-IDOL/-/raw/main/tokyostones.zip
-- https://github.com/rmyj/VNext-IDOL/-/raw/main/cocopretrain_R50.zip
+- https://github.com/rmyj/VNext-IDOL/-/raw/main/cocopretrain_R50.zip.001
 - https://github.com/rmyj/VNext-IDOL/-/raw/main/valid.zip.001
 
 ## Code
