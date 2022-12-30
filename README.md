@@ -40,7 +40,7 @@ A Google Colab implementation of ![VNext IDOL](https://github.com/wjf5203/VNext/
 ```python
 # to download valid.zip - designed for Google Colab
 %cd /content/
-for i in range(15):
+for i in range(55):
   i = i + 1
   url = f"https://github.com/rmyj/VNext-IDOL/-/raw/main/valid.zip.{i:03}"
   !wget $url # shows error but works 
